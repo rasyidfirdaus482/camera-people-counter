@@ -1,0 +1,105 @@
+2025-06-15 01:13:08,335 - WARNING - CUDA not available. Running on CPU.
+2025-06-15 01:13:08,336 - INFO - Optimized CCTV System initialized
+2025-06-15 01:13:08,336 - INFO - Starting optimized CCTV system...
+2025-06-15 01:13:08,336 - INFO - Loading YOLO model: yolov8n.pt
+2025-06-15 01:13:08,827 - INFO - Model warmed up successfully
+2025-06-15 01:13:10,410 - INFO - MobileNetV2 Embedder for Deep Sort initialised
+2025-06-15 01:13:10,410 - INFO - - gpu enabled: False
+2025-06-15 01:13:10,410 - INFO - - half precision: False
+2025-06-15 01:13:10,410 - INFO - - max batch size: 16
+2025-06-15 01:13:10,410 - INFO - - expects BGR: True
+2025-06-15 01:13:10,464 - INFO - DeepSort Tracker initialised
+2025-06-15 01:13:10,464 - INFO - - max age: 50
+2025-06-15 01:13:10,464 - INFO - - appearance threshold: 0.3
+2025-06-15 01:13:10,464 - INFO - - nms threshold: OFF
+2025-06-15 01:13:10,464 - INFO - - max num of appearance features: None
+2025-06-15 01:13:10,464 - INFO - - overriding track class : No
+2025-06-15 01:13:10,464 - INFO - - today given : No
+2025-06-15 01:13:10,464 - INFO - - in-build embedder : Yes
+2025-06-15 01:13:10,464 - INFO - - polygon detections : No
+2025-06-15 01:13:10,464 - INFO - Models initialized successfully
+2025-06-15 01:13:10,464 - INFO - Connecting to: ***h***t***t***p***s***:***/***/***1***9***2***.***1***6***8***.***1***8***.***1***8***9***:***8***0***8***0***/***v***i***d***e***o***
+2025-06-15 01:13:16,211 - ERROR - Failed to initialize capture: Could not open video stream
+2025-06-15 01:13:16,211 - ERROR - Fatal error: 'CCTVMonitor' object has no attribute 'increment_connection_error'
+2025-06-15 01:13:16,211 - INFO - Program terminated
+2025-06-15 01:13:22,897 - WARNING - CUDA not available. Running on CPU.
+2025-06-15 01:13:22,897 - INFO - Optimized CCTV System initialized
+2025-06-15 01:13:22,897 - INFO - Starting optimized CCTV system...
+2025-06-15 01:13:22,897 - INFO - Loading YOLO model: yolov8n.pt
+2025-06-15 01:13:23,397 - INFO - Model warmed up successfully
+2025-06-15 01:13:24,963 - INFO - MobileNetV2 Embedder for Deep Sort initialised
+2025-06-15 01:13:24,963 - INFO - - gpu enabled: False
+2025-06-15 01:13:24,963 - INFO - - half precision: False
+2025-06-15 01:13:24,963 - INFO - - max batch size: 16
+2025-06-15 01:13:24,964 - INFO - - expects BGR: True
+2025-06-15 01:13:25,008 - INFO - DeepSort Tracker initialised
+2025-06-15 01:13:25,008 - INFO - - max age: 50
+2025-06-15 01:13:25,008 - INFO - - appearance threshold: 0.3
+2025-06-15 01:13:25,008 - INFO - - nms threshold: OFF
+2025-06-15 01:13:25,008 - INFO - - max num of appearance features: None
+2025-06-15 01:13:25,008 - INFO - - overriding track class : No
+2025-06-15 01:13:25,008 - INFO - - today given : No
+2025-06-15 01:13:25,008 - INFO - - in-build embedder : Yes
+2025-06-15 01:13:25,008 - INFO - - polygon detections : No
+2025-06-15 01:13:25,008 - INFO - Models initialized successfully
+2025-06-15 01:13:25,008 - INFO - Connecting to: ***h***t***t***p***s***:***/***/***1***9***2***.***1***6***8***.***1***8***.***1***8***9***:***8***0***8***0***/***v***i***d***e***o***
+2025-06-15 01:13:25,491 - INFO - Stream connected: 1920x1080@25.0fps
+2025-06-15 01:13:25,491 - INFO - Buffer size: 3
+2025-06-15 01:13:25,492 - INFO - Frame processor thread started
+2025-06-15 01:13:25,492 - INFO - Threaded processing enabled
+2025-06-15 01:13:25,492 - INFO - System started successfully
+2025-06-15 01:13:25,523 - ERROR - Unexpected error: 'CCTVMonitor' object has no attribute 'should_report_stats'
+2025-06-15 01:13:25,523 - INFO - Cleaning up...
+2025-06-15 01:13:25,660 - ERROR - Error processing frame: 'CCTVMonitor' object has no attribute 'update_detection_stats'
+2025-06-15 01:13:25,661 - INFO - === Performance Statistics ===
+2025-06-15 01:13:25,661 - INFO - Uptime: 2.8s | FPS: 0.00
+2025-06-15 01:13:25,661 - INFO - Frames: 1 | Dropped: 0
+2025-06-15 01:13:25,661 - INFO - Avg Processing: 0.157s
+2025-06-15 01:13:25,661 - INFO - People: 0 | Max: 0
+2025-06-15 01:13:25,661 - INFO - System stopped
+2025-06-15 01:13:25,661 - INFO - Program terminated
+2025-06-15 01:13:35,998 - WARNING - CUDA not available. Running on CPU.
+2025-06-15 01:13:35,998 - INFO - Optimized CCTV System initialized
+2025-06-15 01:13:35,998 - INFO - Starting optimized CCTV system...
+2025-06-15 01:13:35,998 - INFO - Loading YOLO model: yolov8n.pt
+2025-06-15 01:13:36,506 - INFO - Model warmed up successfully
+2025-06-15 01:13:38,032 - INFO - MobileNetV2 Embedder for Deep Sort initialised
+2025-06-15 01:13:38,032 - INFO - - gpu enabled: False
+2025-06-15 01:13:38,032 - INFO - - half precision: False
+2025-06-15 01:13:38,032 - INFO - - max batch size: 16
+2025-06-15 01:13:38,032 - INFO - - expects BGR: True
+2025-06-15 01:13:38,081 - INFO - DeepSort Tracker initialised
+2025-06-15 01:13:38,081 - INFO - - max age: 50
+2025-06-15 01:13:38,081 - INFO - - appearance threshold: 0.3
+2025-06-15 01:13:38,081 - INFO - - nms threshold: OFF
+2025-06-15 01:13:38,081 - INFO - - max num of appearance features: None
+2025-06-15 01:13:38,081 - INFO - - overriding track class : No
+2025-06-15 01:13:38,081 - INFO - - today given : No
+2025-06-15 01:13:38,081 - INFO - - in-build embedder : Yes
+2025-06-15 01:13:38,081 - INFO - - polygon detections : No
+2025-06-15 01:13:38,081 - INFO - Models initialized successfully
+2025-06-15 01:13:38,081 - INFO - Connecting to: ***h***t***t***p***s***:***/***/***1***9***2***.***1***6***8***.***1***8***.***1***8***9***:***8***0***8***0***/***v***i***d***e***o***
+2025-06-15 01:13:38,319 - INFO - Stream connected: 1920x1080@25.0fps
+2025-06-15 01:13:38,320 - INFO - Buffer size: 3
+2025-06-15 01:13:38,320 - INFO - Frame processor thread started
+2025-06-15 01:13:38,320 - INFO - Threaded processing enabled
+2025-06-15 01:13:38,320 - INFO - System started successfully
+2025-06-15 01:13:38,342 - ERROR - Unexpected error: 'CCTVMonitor' object has no attribute 'should_report_stats'
+2025-06-15 01:13:38,342 - INFO - Cleaning up...
+2025-06-15 01:13:38,508 - ERROR - Error processing frame: 'CCTVMonitor' object has no attribute 'update_detection_stats'
+2025-06-15 01:13:38,510 - INFO - === Performance Statistics ===
+2025-06-15 01:13:38,510 - INFO - Uptime: 2.5s | FPS: 0.00
+2025-06-15 01:13:38,510 - INFO - Frames: 1 | Dropped: 0
+2025-06-15 01:13:38,510 - INFO - Avg Processing: 0.179s
+2025-06-15 01:13:38,510 - INFO - People: 0 | Max: 0
+2025-06-15 01:13:38,510 - INFO - System stopped
+2025-06-15 01:13:38,511 - INFO - Program terminated
+2025-06-15 01:23:29,515 - root - ERROR - Failed to initialize video capture: 'int' object has no attribute 'replace'
+2025-06-15 01:23:29,517 - root - ERROR - Failed to initialize video capture. Exiting.
+2025-06-15 01:27:49,776 - root - ERROR - Failed to initialize video capture: 'int' object has no attribute 'replace'
+2025-06-15 01:27:49,776 - root - ERROR - Failed to initialize video capture. Exiting.
+2025-06-15 01:28:59,252 - root - ERROR - Failed to initialize video capture: 'int' object has no attribute 'replace'
+2025-06-15 01:28:59,254 - root - ERROR - Failed to initialize video capture. Exiting.
+2025-06-15 01:31:58,650 - root - ERROR - Unexpected error in main loop: name 'window_name' is not defined
+2025-06-17 18:16:27,657 - root - ERROR - Failed to initialize video capture: Could not open video stream
+2025-06-17 18:16:27,686 - root - ERROR - Failed to initialize video capture. Exiting.
