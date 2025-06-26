@@ -45,7 +45,7 @@ pip install numpy
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/people-counter-enhanced.git
+git clone https://github.com/rasyidfirdaus482/camera-people-counter.git
 cd camera-people-counter
 ```
 
